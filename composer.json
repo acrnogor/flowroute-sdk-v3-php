@@ -29,5 +29,6 @@
         "psr-4": {
             "FlowrouteNumbersAndMessagingLib\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
